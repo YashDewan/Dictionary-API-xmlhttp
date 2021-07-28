@@ -1,1 +1,1 @@
-# Dictionary-API-xmlhttp-
+# Dictionary-API-xmlhttp
